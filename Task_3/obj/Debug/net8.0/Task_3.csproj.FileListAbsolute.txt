@@ -1,0 +1,14 @@
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\bin\Debug\net8.0\Task_3.exe
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\bin\Debug\net8.0\Task_3.deps.json
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\bin\Debug\net8.0\Task_3.runtimeconfig.json
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\bin\Debug\net8.0\Task_3.dll
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\bin\Debug\net8.0\Task_3.pdb
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfoInputs.cache
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.AssemblyInfo.cs
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.dll
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\refint\Task_3.dll
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.pdb
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\Task_3.genruntimeconfig.cache
+C:\Users\nicki\OneDrive\Документы\Обучение\ДЗ С#\ДЗ C# repository\ДЗ Семинар 5\Tasks\Task_3\obj\Debug\net8.0\ref\Task_3.dll
